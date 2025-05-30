@@ -9,5 +9,9 @@ git reset --hard origin/master
 
 # 再次拉取更新，确保本地是最新状态
 git pull
+
+# 提交本地分支 
+git push -u origin main
+
 ```
 
