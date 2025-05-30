@@ -12,6 +12,7 @@ git pull
 
 # 提交本地分支 
 git push -u origin main
+git push
 
 ```
 
